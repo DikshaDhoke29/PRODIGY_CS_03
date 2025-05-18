@@ -1,0 +1,13 @@
+PS C:\Users\HP> python C:\Users\HP\Desktop\prodigyinfotech\Password_Strengh_Checker.py    
+Welcome to the password strength checker
+Enter your password (or type 'exit' to quit): Hello
+
+weak: password must contain at least 8 digit!!
+Enter your password (or type 'exit' to quit): Hello123
+
+medium: password must contain a special character!
+Enter your password (or type 'exit' to quit): Hello$123
+
+Strong:Your password is secured!
+Enter your password (or type 'exit' to quit): exit
+Thank you for using this tool! Hope We helped you knowing the strength of your password.  
